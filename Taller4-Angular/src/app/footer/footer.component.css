@@ -1,0 +1,16 @@
+.footer {
+  grid-area: footer;
+  background: #ffc107;
+  padding: 15px;
+}
+
+.footer-main {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-boxes {
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,7 @@
+.sidebar {
+  grid-area: sidebar;
+  background: #a9a9a9;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+}
